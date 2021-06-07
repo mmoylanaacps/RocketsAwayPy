@@ -19,13 +19,13 @@ For a mass of `12`, divide by `3` and round down to get `4`, then subtract `2` t
 
 The Fuel Counter-Upper needs to know the total fuel requirement. To find it, individually calculate the fuel needed for the mass of each module (your puzzle input), then add together all the fuel values.
 
-** Complete the code in Part1.py file **
+**Complete the code in Part1.py file**
 
 What is the sum of the fuel requirements for all of the modules on your spacecraft? If you code it correctly for the given input it should be `3296269`
 
 Part Two
 =======================================
-** Leave your part 1 code intact, complete code in Part2.py **
+**Leave your part 1 code intact, complete code in Part2.py**
 
 During the second Go / No Go poll, the Elf in charge of the Rocket Equation Double-Checker stops the launch sequence. Apparently, you forgot to include additional fuel for the fuel you just added.
 
